@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iswarya-Singaram
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently pursuing my undergraduate in ECE
-- 💞️ I’m looking to forward to improve my skills and set foot in coding journey
+
   
 
 <!---
