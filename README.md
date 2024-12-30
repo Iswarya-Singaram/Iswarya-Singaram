@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Iswarya</h1>
-<h3 align="center">I'm an aspiring embedded systems engineer</h3>
 
-- 🌱 I’m currently learning **Embedded systems**
 
 - 📫 How to reach me **iswaryasingaram16@gmail.com**
 
