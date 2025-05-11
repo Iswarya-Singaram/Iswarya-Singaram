@@ -11,7 +11,7 @@
 
 ### ⚡ About Me
 
-- 🎓 B.Tech in Electronics and Communication Engineering @ Chennai Institute of Technology  
+- 🎓 B.E in Electronics and Communication Engineering @ Chennai Institute of Technology  
 - 🚁 Currently working in **Team Asunama**, CIT’s Autonomous Drone Development Team  
 - 🔬 Passionate about **Electronics Design**, **Embedded Systems**, **PCB Development**, and **VLSI**
 
