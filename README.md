@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Iswarya Singaram</h1>
-<h3 align="center">Electronics & AI Enthusiast | Drone Dev | Tech Innovator</h3>
+<h3 align="center">Aspiring Electronics Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/Iswarya-Singaram">
@@ -9,44 +9,46 @@
 
 ---
 
-### 💡 About Me
+### ⚡ About Me
 
-- 🎓 B.Tech in Electronics and Communication Engineering @ Chennai Institute of Technology
-- 🚁 AI & Electronics Engineer at **Team Asunama** (CIT's Autonomous Drone Team)
-- 🤖 Passionate about **AI, Embedded Systems, Drones**, and **IoT**
+- 🎓 B.Tech in Electronics and Communication Engineering @ Chennai Institute of Technology  
+- 🚁 Currently working in **Team Asunama**, CIT’s Autonomous Drone Development Team  
+- 🔬 Passionate about **Electronics Design**, **Embedded Systems**, **PCB Development**, and **VLSI**
 
 ---
 
-### 🔧 Tech & Tools I Use
+### 🔌 Core Expertise
 
-#### 💻 Programming & Scripting
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Verilog](https://img.shields.io/badge/-Verilog-A020F0?style=flat-square)
+- 📡 **Embedded Systems**: Arduino, Raspberry Pi, Jetson Nano  
+- 🔋 **Circuit Simulation**: LTSpice, TinkerCAD  
+- 🖨️ **PCB Design**: KiCad, Synopsys Custom Compiler  
+- 🎯 **VLSI Fundamentals**: Verilog HDL, Digital Logic Design  
+- ✈️ **Drone Systems**: DroneKit, Mission Planner, Payload Automation  
+- 🌐 **IoT Applications**: Sensor interfacing, ThingSpeak, Automation protocols  
+- 🛠️ **Tools**: Linux, Git, Figma, Power BI
 
-#### 🌐 Web & UI
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+---
 
-#### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi)
+### ⚙️ Tech Stack (Electronics Focused)
 
-#### ⚙️ Embedded & Electronics
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi)
+#### 💡 Hardware & Design
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=flat-square&logo=kicad)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=raspberry-pi)
+![Jetson Nano](https://img.shields.io/badge/-JetsonNano-76B900?style=flat-square&logo=nvidia)
 ![LTSpice](https://img.shields.io/badge/-LTSpice-E60028?style=flat-square)
+![KiCad](https://img.shields.io/badge/-KiCad-314CB6?style=flat-square&logo=kicad)
 ![TinkerCAD](https://img.shields.io/badge/-TinkerCAD-00B2A9?style=flat-square)
 
-#### 🚀 Robotics & Drone Systems
-- Drone programming (DroneKit)
-- Mission Planner
+#### 📟 Digital Design & Firmware
+![Verilog](https://img.shields.io/badge/-Verilog-A020F0?style=flat-square)
+![Embedded C](https://img.shields.io/badge/-Embedded%20C-00599C?style=flat-square)
+
+#### 📡 Drone & Robotics
+- Drone Programming (DroneKit)
+- Autonomous Navigation
+- QR Detection & Payload Systems
 
 ---
-
 
 ### 📈 GitHub Stats
 
@@ -65,4 +67,4 @@
 
 ---
 
-*Thanks for stopping by! Let's build something amazing together.*
+*Thanks for visiting my profile! I’m always eager to collaborate on real-world electronics and drone innovation projects.*
